@@ -1,0 +1,13 @@
+html{
+  text-align: center;
+  background-color: #fff123;
+  
+  
+}
+survey-form{
+    display: flex;
+    align-items: center;
+    font-size: 1.125rem;
+    margin-bottom: 0.5rem;
+    
+}
